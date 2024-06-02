@@ -1,0 +1,44 @@
+name: master
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - bzip2=1.0.8=hcfcfb64_5
+  - ca-certificates=2024.2.2=h56e8100_0
+  - gudhi=3.9.0=py310hc8b858c_6
+  - intel-openmp=2024.1.0=h57928b3_966
+  - joblib=1.4.2=pyhd8ed1ab_0
+  - libblas=3.9.0=22_win64_mkl
+  - libboost=1.84.0=h9a677ad_3
+  - libcblas=3.9.0=22_win64_mkl
+  - libffi=3.4.2=h8ffe710_5
+  - libhwloc=2.10.0=default_h8125262_1001
+  - libiconv=1.17=hcfcfb64_2
+  - liblapack=3.9.0=22_win64_mkl
+  - libsqlite=3.45.3=hcfcfb64_0
+  - libxml2=2.12.7=h283a6d9_0
+  - libzlib=1.2.13=h2466b09_6
+  - mkl=2024.1.0=h66d3029_692
+  - mpfr=4.2.1=h64bf75a_1
+  - mpir=3.0.0=he025d50_1002
+  - numpy=1.26.4=py310hf667824_0
+  - openssl=3.3.0=h2466b09_3
+  - pip=24.0=pyhd8ed1ab_0
+  - pthreads-win32=2.9.1=hfa6e2cd_3
+  - python=3.10.12=h4de0772_0_cpython
+  - python_abi=3.10=4_cp310
+  - scikit-learn=1.5.0=py310hf2a6c47_1
+  - scipy=1.13.1=py310h46043a1_0
+  - setuptools=70.0.0=pyhd8ed1ab_0
+  - tbb=2021.12.0=hc790b64_1
+  - threadpoolctl=3.5.0=pyhc1e730c_0
+  - tk=8.6.13=h5226925_1
+  - tzdata=2024a=h0c530f3_0
+  - ucrt=10.0.22621.0=h57928b3_0
+  - vc=14.3=ha32ba9b_20
+  - vc14_runtime=14.38.33135=h835141b_20
+  - vs2015_runtime=14.38.33135=h22015db_20
+  - wheel=0.43.0=pyhd8ed1ab_1
+  - xz=5.2.6=h8d14728_0
+  - zstd=1.5.6=h0ea2cb4_0

@@ -1,0 +1,7 @@
+.vscode/
+*.code-workspace
+setup.cfg
+
+__pycache__/
+BenchTDA_data/*
+scores.json
